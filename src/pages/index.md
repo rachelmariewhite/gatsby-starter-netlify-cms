@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: ART TECHNOLOGY EDUCATION
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: ART TECHNOLOGY EDUCATION
+subheading: UX DESIGN IS A NEEDED ART, IT’S CRAFTING SOLUTIONS TO REAL PROBLEMS
 mainpitch:
   title: Why Kaldi
   description: >
